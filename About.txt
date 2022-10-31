@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @CreaamBlob
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning nothing :(
-- 📫 How to reach me: Talk.
+- 👋 Hi, I am CreaamBlob
+- 🌱 Currently learning C# Tmodloader modding
+- 📫 How to reach me: Discord @Creamblob#6653
